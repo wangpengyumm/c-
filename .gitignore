@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Build outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.log
+*.tlog/
+*.recipe
+*.lastbuildstate
+*.db
+
+# IDE
+.idea/
+.vscode/
+
+# System
+*.suo
+.DS_Store
+Thumbs.db
+
+# Executables
+*.exe
